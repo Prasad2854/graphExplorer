@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#graph-container {
+  width: 700px;
+  height: 500px;
+  border: 1px solid #ddd;
+  margin-top: 20px;
+  position: relative;
+}
+
+#controls {
+  margin-top: 20px;
+}
+
+button {
+  margin-right: 10px;
+}
